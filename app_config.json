@@ -1,10 +1,10 @@
 [{
-  "package":"com.okt.sport",
+  "pkgname":"com.okt.sport",
   "version":"1,2",
   "url":"http://www.baidu.com"
 },
 {
-  "package":"com.ak.freevpnserver1",
+  "pkgname":"com.ak.freevpnserver1",
   "version":"1,2",
   "url":"http://www.baidu.com"
 }]
